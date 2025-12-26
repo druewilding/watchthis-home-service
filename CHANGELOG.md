@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.14](https://github.com/druewilding/watchthis-home-service/compare/v2.2.13...v2.2.14) (2025-12-26)
+
+
+### Chores
+
+* Change to Drue Wilding ([#143](https://github.com/druewilding/watchthis-home-service/issues/143)) ([faf238a](https://github.com/druewilding/watchthis-home-service/commit/faf238a0195204056fecc607702959875baed8d1))
+
 ## [2.2.13](https://github.com/druewilding/watchthis-home-service/compare/v2.2.12...v2.2.13) (2025-10-20)
 
 
