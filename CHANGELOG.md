@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.15](https://github.com/druewilding/watchthis-home-service/compare/v2.2.14...v2.2.15) (2025-12-27)
+
+
+### Chores
+
+* Enforce node 24+ ([#147](https://github.com/druewilding/watchthis-home-service/issues/147)) ([b5c9519](https://github.com/druewilding/watchthis-home-service/commit/b5c9519fdf56c619ede7d669a49dd11a6aa545aa))
+
 ## [2.2.14](https://github.com/druewilding/watchthis-home-service/compare/v2.2.13...v2.2.14) (2025-12-26)
 
 
