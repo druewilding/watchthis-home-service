@@ -1,4 +1,3 @@
-import dotenv from "dotenv";
 import type express from "express";
 import { NextFunction, Response } from "express";
 
@@ -15,8 +14,6 @@ type SessionData = {
     username: string;
   };
 };
-
-dotenv.config();
 
 const userServiceUrl = process.env.USER_SERVICE_URL ?? "http://localhost:8583";
 

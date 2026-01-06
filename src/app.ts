@@ -1,14 +1,11 @@
 import appRootPath from "app-root-path";
 import cookieParser from "cookie-parser";
-import dotenv from "dotenv";
 import express from "express";
 import helmet from "helmet";
 import path from "path";
 
 import packageJson from "../package.json" with { type: "json" };
 import { findUserFromSession, RequestWithUser } from "./auth.js";
-
-dotenv.config();
 
 const baseUrl = process.env.BASE_URL ?? "http://localhost:7279";
 const userServiceUrl = process.env.USER_SERVICE_URL ?? "http://localhost:8583";
