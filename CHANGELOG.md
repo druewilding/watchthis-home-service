@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.16](https://github.com/druewilding/watchthis-home-service/compare/v2.2.15...v2.2.16) (2026-01-18)
+
+
+### Bug Fixes
+
+* Regenerate style.css ([#150](https://github.com/druewilding/watchthis-home-service/issues/150)) ([3cdf07b](https://github.com/druewilding/watchthis-home-service/commit/3cdf07bae2f1b70b7aff112179114772f9b9acd3))
+* Skip publishing Docker image for forked PRs ([#151](https://github.com/druewilding/watchthis-home-service/issues/151)) ([6287f22](https://github.com/druewilding/watchthis-home-service/commit/6287f2205325c8e34caeea921b547758b4812e0a))
+* Standardise how & when dotenv is loaded ([#149](https://github.com/druewilding/watchthis-home-service/issues/149)) ([8142e1e](https://github.com/druewilding/watchthis-home-service/commit/8142e1ee4456f6d6535c80423cc5321fe7b97aa6))
+
 ## [2.2.15](https://github.com/druewilding/watchthis-home-service/compare/v2.2.14...v2.2.15) (2025-12-27)
 
 
