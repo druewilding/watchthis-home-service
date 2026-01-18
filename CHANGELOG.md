@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.16](https://github.com/druewilding/watchthis-home-service/compare/v2.2.15...v2.2.16) (2026-01-18)
+
+
+### Bug Fixes
+
+* Skip publishing Docker image for forked PRs ([#151](https://github.com/druewilding/watchthis-home-service/issues/151)) ([6287f22](https://github.com/druewilding/watchthis-home-service/commit/6287f2205325c8e34caeea921b547758b4812e0a))
+
 ## [2.2.15](https://github.com/druewilding/watchthis-home-service/compare/v2.2.14...v2.2.15) (2025-12-27)
 
 
