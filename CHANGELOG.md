@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.17](https://github.com/druewilding/watchthis-home-service/compare/v2.2.16...v2.2.17) (2026-01-20)
+
+
+### Chores
+
+* Update supertest to 7.2.2 ([#155](https://github.com/druewilding/watchthis-home-service/issues/155)) ([48e7044](https://github.com/druewilding/watchthis-home-service/commit/48e7044dcd6432f745b9504e7875f5b987ef8571))
+
 ## [2.2.16](https://github.com/druewilding/watchthis-home-service/compare/v2.2.15...v2.2.16) (2026-01-18)
 
 
