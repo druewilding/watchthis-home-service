@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.21](https://github.com/druewilding/watchthis-home-service/compare/v2.2.20...v2.2.21) (2026-06-22)
+
+
+### Chores
+
+* Update dependencies ([#163](https://github.com/druewilding/watchthis-home-service/issues/163)) ([3716736](https://github.com/druewilding/watchthis-home-service/commit/37167369d6135cc9b07df559c57c305e4dfb2c4c))
+
 ## [2.2.20](https://github.com/druewilding/watchthis-home-service/compare/v2.2.19...v2.2.20) (2026-05-20)
 
 
